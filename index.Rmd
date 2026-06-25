@@ -1,21 +1,21 @@
 ---
-title: "Evelia Coss"
-image: "yo_azul.jpg"
+title: "Zaira Lazcano"
+image: "ZAI_n.jpg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
-    url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
-  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
-    url: "https://twitter.com/EveliaCoss/"
+    url: "www.linkedin.com/in/zaira-lazcano-neuro/"
+ # - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+   # url: "https://twitter.com/EveliaCoss/"
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
-    url: "https://github.com/EveliaCoss/"
-  - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
-    url: https://www.researchgate.net/profile/Evelia-Coss-Navarrete  
+    url: "https://github.com/zairaval/"
+  # - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
+  #   url: https://www.researchgate.net/profile/Evelia-Coss-Navarrete  
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
-    url: "mailto:ecossnav@gmail.com"
-  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
-    url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+    url: "mailto:zairalazcano.mx@gmail.com"
+  # - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+  #   url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
@@ -24,7 +24,7 @@ library(fontawesome)
 
 #### **Bio** 
 
-I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
+Estoy interesada en la Neurociencia Computacional, Enfermedades Neurodegenerativas, Conducta y Ciencia de Datos.
 
 Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: <https://viernesbioinformatica.github.io/> | Github: [ViernesBioinfo2023_parte0](https://github.com/EveliaCoss/ViernesBioinfo2023); [ViernesBioinfo2024_parte1](https://github.com/EveliaCoss/ViernesBioinfo2024); [ViernesBioinfo2024_parte2](https://github.com/EveliaCoss/ViernesBioinfo2024_parte2); [ViernesBioinfo2025_parte4](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4); [ViernesBioinfo2025_parte3](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3); [ViernesBioinfo2026_parte5](https://github.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5)
 
