@@ -24,23 +24,20 @@ library(fontawesome)
 
 #### **Bio** 
 
+Egresada de la Lic. en Neurociencias en proceso de titulación, formación activa-independiente de distintas disciplinas en el diseño, implementación y evaluación de sistemas neurotecnológicos.
+
 Estoy interesada en la Neurociencia Computacional, Enfermedades Neurodegenerativas, Conducta y Ciencia de Datos.
 
-Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: <https://viernesbioinformatica.github.io/> | Github: [ViernesBioinfo2023_parte0](https://github.com/EveliaCoss/ViernesBioinfo2023); [ViernesBioinfo2024_parte1](https://github.com/EveliaCoss/ViernesBioinfo2024); [ViernesBioinfo2024_parte2](https://github.com/EveliaCoss/ViernesBioinfo2024_parte2); [ViernesBioinfo2025_parte4](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4); [ViernesBioinfo2025_parte3](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3); [ViernesBioinfo2026_parte5](https://github.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5)
 
-#### **Education**
+#### **Experiencia Academica**
 
-**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | February 2023 - May 2026
+**Lic. Neurociencias** | @[ENES Juriquilla](https://inb.unam.mx/index.php/licenciatura-en-neurociencias/) | Agosto 2022 - May 2026
 
-**PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | August 2018 - January 2023
 
-#### **Experience**
+#### **Experiencia**
 
-Member of the @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet), @[CDSB Mexico](https://twitter.com/CDSBMexico) and @[ISCB RSG-Mexico](https://x.com/rsg_iscb_mexico?lang=es).
+Miembro activo de investigación del grupo Student Interest Group in Neurology- Facultad de Medicina UNAM. @[SIGN-México](https://sites.google.com/view/sign-unam/p%C3%A1gina-principal?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnOxzI4j2NWLVC9Cp_YxCoPpv7V4TU4fKBq1s62s0HSBfxwLZjhSBS8Omnlsc_aem_yN9_F7VnLXPEW5L7q-0SOQ)
 
-#### **Repository Contributions**
+#### **Contribuciones**
 
-Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) | Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
-
-[Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz)
-
+Contenido de divulgacion en la pagina oficial de @[Limaco-Slugscience](https://limaco.lavis.unam.mx/regeneracion/)
