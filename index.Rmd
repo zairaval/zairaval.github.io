@@ -18,26 +18,24 @@ output:
   postcards::trestles
 ---
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 ```
 
-#### **Bio** 
+#### **Bio**
 
 Egresada de la Lic. en Neurociencias en proceso de titulación, formación activa-independiente de distintas disciplinas en el diseño, implementación y evaluación de sistemas neurotecnológicos.
 
 Estoy interesada en la Neurociencia Computacional, Enfermedades Neurodegenerativas, Conducta y Ciencia de Datos.
 
-
 #### **Experiencia Academica**
 
-**Lic. Neurociencias** | @[ENES Juriquilla](https://inb.unam.mx/index.php/licenciatura-en-neurociencias/) | Agosto 2022 - May 2026
-
+**Lic. Neurociencias** \| \@[ENES Juriquilla](https://inb.unam.mx/index.php/licenciatura-en-neurociencias/) \| Agosto 2022 - May 2026
 
 #### **Experiencia**
 
-Miembro activo de investigación del grupo Student Interest Group in Neurology- Facultad de Medicina UNAM. @[SIGN-México](https://sites.google.com/view/sign-unam/p%C3%A1gina-principal?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnOxzI4j2NWLVC9Cp_YxCoPpv7V4TU4fKBq1s62s0HSBfxwLZjhSBS8Omnlsc_aem_yN9_F7VnLXPEW5L7q-0SOQ)
+Miembro activo de investigación del grupo Student Interest Group in Neurology- Facultad de Medicina UNAM. \@[SIGN-México](https://sites.google.com/view/sign-unam/p%C3%A1gina-principal?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnOxzI4j2NWLVC9Cp_YxCoPpv7V4TU4fKBq1s62s0HSBfxwLZjhSBS8Omnlsc_aem_yN9_F7VnLXPEW5L7q-0SOQ)
 
 #### **Contribuciones**
 
-Contenido de divulgacion en la pagina oficial de @[Limaco-Slugscience](https://limaco.lavis.unam.mx/regeneracion/)
+Contenido de divulgacion en la pagina oficial de \@[Limaco-Slugscience](https://limaco.lavis.unam.mx/regeneracion/)
